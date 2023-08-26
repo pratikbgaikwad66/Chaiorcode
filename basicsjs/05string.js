@@ -24,9 +24,12 @@ const gameName = new String('pratik')
  console.log(newStringOne.trim());
  
 
- const url = "https://pratik.com/pratik%20gaikwad"
- console.log(url.replace('%20', '_'))
+//  const url = "https://pratik.com/pratik%20gaikwad"
+//  console.log(url.replace('%20', '_'))
 
+//  console.log(url.includes('pratik'))
+
+ const url ="https://pratik.com/pratik%20gaikwad1"
  console.log(url.includes('pratik'))
 
  
