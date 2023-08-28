@@ -1,8 +1,10 @@
-const myarr = [0 ,1 ,2 ,3 ,4, 5, ]
-const myhero = [ "spider ", "shakti"]
-
-const myarr2 = new Array(1, 2, 3, 4)
-console.log(myarr[1]);
+// const myarr = [0 ,1 ,2 ,3 ,4, 5, ]
+// const myhero = [ "spider ", "shakti"]
+const myarr = [1 ,2,3,4,5,6]
+// const myarr2 = new Array(1, 2, 3, 4)
+// console.log(myarr[1]);
+console.log(Array.isArray[3]);
+console.log(myarr);
 
 // array methodes
 
@@ -22,15 +24,15 @@ console.log(myarr[1]);
 // console.log(typeof myarr);
 // console.log(typeof newArr);
 
-console.log("a", myarr);
+// console.log("a", myarr);
 
-const myn1 = myarr.slice(1, 3)
+// const myn1 = myarr.slice(1, 3)
 
-console.log(myn1);
-console.log("B",myarr);
+// console.log(myn1);
+// console.log("B",myarr);
 
 
-const myn2 = myarr.splice(1, 3)
-console.log("c",myarr);
-console.log(myn2);
+// const myn2 = myarr.splice(1, 3)
+// console.log("c",myarr);
+// console.log(myn2);
 
